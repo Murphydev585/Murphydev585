@@ -24,8 +24,8 @@ I'm a passionate full stack developer specializing in building dynamic and respo
 ## 📫 Let's Connect!
 
 - **Website**: [Portfolio](https://abuaslam.vercel.app)
-- **LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/murphydev585)
-- **Twitter**: [@murphydev585](https://twitter.com/murphyfx_dmx)
+- **LinkedIn**: [murphydev585](https://linkedin.com/in/murphydev585)
+- **Twitter**: [@murphyfx_dmx](https://twitter.com/murphyfx_dmx)
 - **GitHub**: [@murphydev585](https://github.com/murphydev585)
 
 Feel free to reach out if you'd like to collaborate or have any questions! 
